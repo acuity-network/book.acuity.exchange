@@ -4,6 +4,7 @@
 - [Architecture](./architecture.md)
   - [Asset Identification](./asset_identification.md)
   - [Price Calculations](./price_calculations.md)
+  - [Blockchain Events](./blockchain_events.md)
   - [Order Book](./orderbook.md)
   - [Connected Accounts](./connected_accounts.md)
   - [Atomic Swap](./atomic_swap.md)
