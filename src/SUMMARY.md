@@ -2,6 +2,7 @@
 
 [Introduction](./introduction.md)
 - [Architecture](./architecture.md)
+  - [Software Components](./software_components.md)
   - [Asset Identification](./asset_identification.md)
   - [Price Calculations](./price_calculations.md)
   - [Blockchain Events](./blockchain_events.md)
