@@ -36,13 +36,9 @@ Substrate-based chain to manage the DEX.
 * Cross-chain account connection
 * Trusted accounts
 
-Already written - needs updated to latest version of Substrate.
-
 [Repository](https://github.com/acuity-social/acuity-substrate)
 
 ### Order Book Pallet
-
-Already written - needs updated to latest version of Substrate.
 
 [Repository](https://github.com/acuity-social/acuity-orderbook-pallet)
 
