@@ -1,15 +1,24 @@
 # Comparisons
 
-basicswap
+## [BasicSwap](https://basicswapdex.com/)
 
-block DX
+Fairly similar architecture to Acuity DEX.
 
-AtomicDEX
+* no KYC
+* atomic swap (scriptless chain, OtVES)
+* distributed order book (SMSG)
+* non-custodial
+* particl, bitcoin, litecoin, monero, PIVX, Dash, Firo (scriptless scripts - EVM chains not supported yet)
+* desktop, no web yet
 
-ThorDex
+## [Block DX](https://blockdx.net/)
 
-BISQ
+## [Komodo Wallet](https://atomicdex.io/en/)
 
-Haveno
+## [ThorDex](https://thordex.xyz/)
 
-komodo
+## [Bisq](https://bisq.network/)
+
+## [Haveno](https://haveno.exchange/)
+
+## [Polkadex](https://polkadex.trade/)
