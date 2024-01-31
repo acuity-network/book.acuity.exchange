@@ -42,13 +42,13 @@ Substrate-based chain to manage the DEX.
 
 [Repository](https://github.com/acuity-social/acuity-orderbook-pallet)
 
-## Trader Bot
+## Bot
 
-Has the keys to the hot wallet.
+Has the keys to the trader's hot wallet.
 
 Automatically issues the transactions necessary to perform an atomic swap as either seller or buyer. It can also be instructed to set and remove sell orders.
 
-Not yet implemented.
+[Repository](https://github.com/acuity-social/acuity-dex-bot)
 
 ## Controller Bot
 
