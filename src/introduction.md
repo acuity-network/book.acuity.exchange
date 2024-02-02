@@ -9,3 +9,5 @@ Cryptocurrencies are typically traded on centralized exchanges. This is especial
 ## Loss of funds
 
 It's a common occurance for cryptocurrency holders to deposit their funds to a centralized exchange and be unable to withdraw them again.
+
+## Censorship

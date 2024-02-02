@@ -28,21 +28,7 @@ This component uses [Hybrid Indexer](https://github.com/hybrid-explorer/hybrid-i
 
 This indexer can index the Acuity DEX smart contracts on any EVM chain.
 
-## Acuity Blockchain
-
-Substrate-based chain to manage the DEX.
-
-* Order publishing
-* Cross-chain account connection
-* Trusted accounts
-
-[Repository](https://github.com/acuity-social/acuity-substrate)
-
-### Order Book Pallet
-
-[Repository](https://github.com/acuity-social/acuity-orderbook-pallet)
-
-## Bot
+## Acuity DEX Bot
 
 Has the keys to the trader's hot wallet.
 
