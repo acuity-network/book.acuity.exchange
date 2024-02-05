@@ -6,6 +6,7 @@
     - [Acuity DEX Blockchain](./architecture/software/blockchain.md)
       - [Order Book Pallet](./architecture/software/blockchain/order_book_pallet.md)
       - [Trusted Accounts Pallet](./architecture/software/blockchain/trusted_accounts_pallet.md)
+    - [Intrachain Trading Contracts](./architecture/software/intrachain.md)
   - [Asset Identification](./asset_identification.md)
   - [Price Calculations](./price_calculations.md)
   - [Blockchain Events](./blockchain_events.md)
