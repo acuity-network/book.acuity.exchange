@@ -4,7 +4,7 @@ In order for buyers to be able to quickly buy on the DEX, it is vital that selle
 
 Acuity trading bots actually have two components:
 
-## Acuity Automated Trader
+## DEX Bot
 
 Written in Rust.
 
@@ -18,9 +18,7 @@ Maintains sell orders on the Acuity chain as instructed by the controller.
 
 Executes sell orders.
 
-Should the orderbook be maintained in chain state, or constructed by the indexer?
-
-## Controller
+## Controller Bot
 
 Can be written in any language. Communicates with the automated trader via WS.
 

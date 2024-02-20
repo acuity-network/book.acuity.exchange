@@ -1,27 +1,32 @@
-# Summary
-
 [Introduction](./introduction.md)
-- [Architecture](./architecture.md)
-  - [Software Components](./software_components.md)
-    - [DEX Blockchain](./architecture/software/blockchain.md)
-      - [Order Book Pallet](./architecture/software/blockchain/order_book_pallet.md)
-      - [Trusted Accounts Pallet](./architecture/software/blockchain/trusted_accounts_pallet.md)
-    - [DEX Blockchain Indexer](./architecture/software/blockchain_indexer.md)
-    - [Intra-chain Trading Contracts](./architecture/software/intrachain.md)
-    - [Atomic Swap Contracts](./architecture/software/atomic_swap.md)
-    - [Atomic Swap Pallet](./architecture/software/atomic_swap_pallet.md)
-    - [DEX Bot](./architecture/software/bot.md)
-    - [Controller Bot](./architecture/software/controller_bot.md)
-    - [Desktop App](./architecture/software/desktop_app.md)
-    - [Browser App](./architecture/software/browser_app.md)
-  - [Asset Identification](./asset_identification.md)
-  - [Price Calculations](./price_calculations.md)
-  - [Blockchain Events](./blockchain_events.md)
-  - [Order Book](./orderbook.md)
-  - [Connected Accounts](./connected_accounts.md)
-  - [Atomic Swap](./atomic_swap.md)
-  - [Trading Bots](./trading_bots.md)
-  - [Wallets](./wallets.md)
+
+# Architecture
+
+- [Asset Identification](./asset_identification.md)
+- [Price Calculations](./price_calculations.md)
+// - [Blockchain Events](./blockchain_events.md)
+- [Order Book](./orderbook.md)
+- [Connected Accounts](./connected_accounts.md)
+- [Atomic Swap](./atomic_swap.md)
+- [Trading Bots](./trading_bots.md)
+
+# Software Components
+
+- [DEX Blockchain](./blockchain.md)
+  - [Order Book Pallet](./blockchain/order_book_pallet.md)
+  - [Trusted Accounts Pallet](./blockchain/trusted_accounts_pallet.md)
+- [DEX Blockchain Indexer](./blockchain_indexer.md)
+- [EVM Indexer](./evm_indexer.md)
+- [Intra-chain Trading Contracts](./intrachain.md)
+- [Atomic Swap Contracts](./atomic_swap_contracts.md)
+- [Atomic Swap Pallet](./atomic_swap_pallet.md)
+- [DEX Bot](./bot.md)
+- [Controller Bot](./controller_bot.md)
+- [Desktop App](./desktop_app.md)
+- [Browser App](./browser_app.md)
+
+# Project Information
+
 - [Comparisons](./comparisons.md)
 - [Tokenonmics](./tokenomics.md)
-- [History](./history.md)
+// - [History](./history.md)
