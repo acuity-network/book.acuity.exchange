@@ -12,6 +12,8 @@ Once the centralized exchanges go bust at the bottom of the market the tradable 
 
 The Acuity community will use non-violent methods to ensure that ACU is not traded on exchanges that can debase. This is one of the primary reasons why the Acuity DEX is being built.
 
+Note that the goal of the Acuity DEX is not to make the value of ACU trade higher. The goal is to provide fully permissionless, non-custodial, autonomous cross-chain trading.
+
 ## How to buy
 
 In order to hold ACU, you need to create install the [Polkadot browser extension](https://polkadot.js.org/extension/) and create an account on the [Acuity blockchain](https://chains.acuity.social/).
