@@ -3,6 +3,7 @@
 # Architecture
 
 - [Asset Identification](./asset_identification.md)
+  - [Supported Chains](./supported_chains.md)
 - [Price Calculations](./price_calculations.md)
 // - [Blockchain Events](./blockchain_events.md)
 - [Order Book](./orderbook.md)
