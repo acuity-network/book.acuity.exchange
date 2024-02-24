@@ -1,4 +1,4 @@
-# Tokenonmics
+# Tokenomics
 
 Before the Regenesis as ACU, MIX was funded by a 2000-day [linear vesting](https://www.coingecko.com/learn/crypto-vesting-schedules) smart contract [[source](https://github.com/acuity-social/acuity-revenue/blob/c8f1e996ceaa9ae879de610510f6d44a253d373b/link_revenue.sol)] starting on 27th April 2017. The original documentation shows the [issuance schedule](https://docs.mix-blockchain.org/en/latest/issuance.html).
 

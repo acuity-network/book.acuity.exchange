@@ -29,5 +29,5 @@
 # Project Information
 
 - [Comparisons](./comparisons.md)
-- [Tokenonmics](./tokenomics.md)
+- [Tokenomics](./tokenomics.md)
 // - [History](./history.md)
