@@ -12,6 +12,8 @@ Once the centralized exchanges go bust at the bottom of the market the tradable 
 
 The Acuity community will use non-violent methods to ensure that ACU is not traded on exchanges that can debase. This is one of the primary reasons why the Acuity DEX is being built.
 
+ACU is used to pay for transactions on the [Acuity DEX blockchain](https://chains.acuity.social/). Primarily to publish sell orders (these are extremely cheap), but also for balance transfers, to publish a list of trusted accounts and to participate in governance.
+
 Note that the goal of the Acuity DEX is not to make the value of ACU trade higher. The goal is to provide fully permissionless, non-custodial, autonomous cross-chain trading.
 
 ## How to buy
